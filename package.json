@@ -59,7 +59,7 @@
     "url": "https://github.com/AdactiveSAS/node-logger/issues"
   },
   "dependencies": {
-    "adsum-client-analytics": "git+https://f1a42af6fa16e2f0c24c975013b14a8126e75ce4:x-oauth-basic@github.com/AdactiveSAS/adsum-client-analytics.git#v1.0.0",
+    "adsum-client-analytics": "adactiveasia/adsum-client-analytics#feature\/v101",
     "winston": "^2.2.0",
     "xmlhttprequest": "^1.8.0"
   },
